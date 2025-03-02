@@ -1,0 +1,30 @@
+# story telling of python:
+
+print ("\nthe story of python")
+print ("...............")
+
+print ("python was created by Guido Van Rossom")
+
+print ("\n the python version:")
+print ("python 1.0: 1994")
+print ("python 2.0: 2000")
+print ("python 3.0: 2008")
+
+
+# 2nd example
+
+print('\nGuido once said: "python is a freedom in how much a programmmer need. too much freedom and nobody can read another\'s code; too little and expressiveness is danger"')
+
+
+# 3. example
+print("\nthe Zen of python \n\t1. explicit is better than inplicit.\n\t2. simple is better than complex\n\t3. Complex is better than complicated.")
+
+#4 th example
+
+print("\npython was realed in", 1991)
+
+a = 20,
+b = 50,
+c = print(sum(a+b));
+
+
